@@ -1,0 +1,9 @@
+/home/wongaz/ProgrammingWorkspaces/Rider/NetworkFlows/NetworkFlows/bin/Debug/NetworkFlows.exe
+/home/wongaz/ProgrammingWorkspaces/Rider/NetworkFlows/NetworkFlows/bin/Debug/NetworkFlows.pdb
+/home/wongaz/ProgrammingWorkspaces/Rider/NetworkFlows/NetworkFlows/bin/Debug/Priority Queue.dll
+/home/wongaz/ProgrammingWorkspaces/Rider/NetworkFlows/NetworkFlows/bin/Debug/Priority Queue.pdb
+/home/wongaz/ProgrammingWorkspaces/Rider/NetworkFlows/NetworkFlows/bin/Debug/Priority Queue.xml
+/home/wongaz/ProgrammingWorkspaces/Rider/NetworkFlows/NetworkFlows/obj/Debug/NetworkFlows.csprojResolveAssemblyReference.cache
+/home/wongaz/ProgrammingWorkspaces/Rider/NetworkFlows/NetworkFlows/obj/Debug/NetworkFlows.csproj.CoreCompileInputs.cache
+/home/wongaz/ProgrammingWorkspaces/Rider/NetworkFlows/NetworkFlows/obj/Debug/NetworkFlows.exe
+/home/wongaz/ProgrammingWorkspaces/Rider/NetworkFlows/NetworkFlows/obj/Debug/NetworkFlows.pdb
